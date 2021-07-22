@@ -1,0 +1,4 @@
+C:\workspaces.dio\DIO.Series\obj\BNB\Debug\netcoreapp3.1\DIO.Series.csprojAssemblyReference.cache
+C:\workspaces.dio\DIO.Series\obj\BNB\Debug\netcoreapp3.1\DIO.Series.AssemblyInfoInputs.cache
+C:\workspaces.dio\DIO.Series\obj\BNB\Debug\netcoreapp3.1\DIO.Series.AssemblyInfo.cs
+C:\workspaces.dio\DIO.Series\obj\BNB\Debug\netcoreapp3.1\DIO.Series.csproj.CoreCompileInputs.cache
